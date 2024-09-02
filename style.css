@@ -15,7 +15,7 @@ ul li {
   font-size: 18px;
   transition: 0.2s;
   list-style-type: none;
-  border: 1px solid #ccc;  /* Çerçeve ekleniyor */
+  border: 1px solid #ccc;
   box-sizing: border-box;
   -webkit-user-select: none;
   -moz-user-select: none;
